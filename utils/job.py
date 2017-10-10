@@ -5,4 +5,5 @@ import os
 def create_repository(repository):
     if not os.path.exists(repository):
         print("Creating repository", repository)
+        print("Press Ctrl + C to exit")
         os.makedirs(repository)
