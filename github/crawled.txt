@@ -1,0 +1,10 @@
+https://github.com
+https://github.com/borntorock
+https://github.com/eliasdorneles
+https://github.com/scrapy/
+https://github.com/scrapy/parsel
+https://github.com/scrapy/pypydispatcher/stargazers
+https://github.com/scrapy/quotesbot/network
+https://github.com/scrapy/scrapy-itemloader/stargazers
+https://github.com/search?q=topic%3Aframework+org%3Ascrapy&type=Repositories
+https://github.com/stummjr/books_crawler
